@@ -1,7 +1,7 @@
 #include <SPI.h>
 #include <MFRC522.h>
 
-// Define pins for readability and easy changes
+// Define pins for readability and easy changes.
 const int SS_PIN = 5;
 const int RST_PIN = 21;
 const int RELAY_PIN = 13;
