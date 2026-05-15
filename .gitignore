@@ -1,0 +1,97 @@
+
+## .gitignore
+
+```gitignore
+# Arduino IDE
+*.ino.previous
+*.ino.with_bootloader
+build/
+build-*/
+
+# Compiled files
+*.hex
+*.elf
+*.bin
+*.eep
+
+# Libraries
+libraries/
+!libraries/README
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+.vscode/.browse.c_cpp.db*
+.clang_complete
+.gcc-flags.json
+
+# Python (for PlatformIO)
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Backup files
+*~
+*.bak
+*.backup
+*.old
+*.orig
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-*
+.project
+.classpath
+.settings/
+
+# Arduino specific
+arduino_cache/
+sketch_nov*.ino
+sketch_dec*.ino
+
+# Documentation output
+docs/_build/
+*.pdf
+*.docx
+
+# Secret/Private files (security)
+*secret*
+*key*
+*password*
+credentials.h
+secrets.h
+
+# Compiled library examples
+examples/*/*.bin
+examples/*/*.hex
+
+# Debug files
+*.d
+*.o
+*.a
+*.sym
+
+# Arduino data directory
+arduino-data/
