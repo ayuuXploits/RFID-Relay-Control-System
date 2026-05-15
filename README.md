@@ -1,7 +1,7 @@
 # RFID Relay Control System
 
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](#-license)
 [![Platform](https://img.shields.io/badge/platform-Arduino%20%7C%20ESP8266%20%7C%20ESP32-blue)](https://www.arduino.cc/)
 
 An Arduino-based access control system that uses RFID tags to toggle a relay for controlling lights, doors, or other electronic devices.
@@ -313,7 +313,7 @@ Bug reports and feature requests are tracked on the [GitHub Issues](../../issues
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+© ayuuXploits. All Rights Reserved.
 
 ---
 
