@@ -180,6 +180,7 @@ Scanned UID: 52 93 0C 5C
 ```
 Scanned UID: FF 12 34 56
 ✗ ACCESS DENIED - Unauthorized card
+
 ```
 
 **Multiple users toggling the relay:**
