@@ -128,6 +128,7 @@ constexpr bool RELAY_ACTIVE_LOW = true;
 
 // Active HIGH relay (HIGH = ON, LOW = OFF)
 constexpr bool RELAY_ACTIVE_LOW = false;
+
 ```
 
 ### Step 4 — Update Pin Definitions
