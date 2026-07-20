@@ -256,6 +256,7 @@ void setRelay(bool on) {
         digitalWrite(RELAY_PIN, RELAY_ACTIVE_LOW ? HIGH : LOW);
     }
 }
+
 ```
 
 ### Access Logging
