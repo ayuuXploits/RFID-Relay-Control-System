@@ -173,6 +173,7 @@ Authorized cards: 2
 ```
 Scanned UID: 52 93 0C 5C
 ✓ ACCESS GRANTED - User 1 | Relay: ON
+
 ```
 
 **Access denied:**
