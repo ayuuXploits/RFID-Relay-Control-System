@@ -166,6 +166,7 @@ constexpr int RELAY_PIN = 13;  // Relay control pin
 ```
 System Ready. Scan your RFID tag.
 Authorized cards: 2
+
 ```
 
 **Access granted:**
