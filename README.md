@@ -270,6 +270,7 @@ void grantAccess(const char* userName) {
 
     // ... original relay code
 }
+
 ```
 
 ### LCD Display
