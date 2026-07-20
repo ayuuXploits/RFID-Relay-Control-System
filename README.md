@@ -137,6 +137,7 @@ Adjust pin assignments to match your wiring if needed:
 constexpr int SS_PIN    = 5;   // MFRC522 SDA pin
 constexpr int RST_PIN   = 21;  // MFRC522 RST pin
 constexpr int RELAY_PIN = 13;  // Relay control pin
+
 ```
 
 ### Step 5 — Upload the Code
