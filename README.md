@@ -115,6 +115,7 @@ constexpr AuthorizedCard AUTHORIZED_CARDS[] = {
     {{0xAB, 0xCD, 0x12, 0x34}, "User 2"},     // Add more as needed
     // {{0xXX, 0xXX, 0xXX, 0xXX}, "User N"},
 };
+
 ```
 
 ### Step 3 — Configure Relay Type
