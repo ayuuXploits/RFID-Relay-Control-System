@@ -103,6 +103,7 @@ Upload the `DumpInfo` example sketch from the MFRC522 library. Open the Serial M
 ```
 Card UID: 52 93 0C 5C
 Card type: MIFARE 1KB
+
 ```
 
 ### Step 2 — Configure Authorized Cards
