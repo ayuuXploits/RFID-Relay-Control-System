@@ -189,6 +189,7 @@ Scanned UID: 52 93 0C 5C
 
 Scanned UID: AB CD 12 34
 ✓ ACCESS GRANTED - User 2 | Relay: OFF
+
 ```
 
 ---
